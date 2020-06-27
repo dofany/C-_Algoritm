@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld_2557.exe
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld_2557.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld_2557.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld_2557.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld_2557.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld_2557.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_2557.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_2557.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_2557.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_2557.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_2557.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_2557.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_2557.genruntimeconfig.cache

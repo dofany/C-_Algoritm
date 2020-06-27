@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\bin\Debug\netcoreapp3.1\AB_sub3_10950.exe
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\bin\Debug\netcoreapp3.1\AB_sub3_10950.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\bin\Debug\netcoreapp3.1\AB_sub3_10950.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\bin\Debug\netcoreapp3.1\AB_sub3_10950.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\bin\Debug\netcoreapp3.1\AB_sub3_10950.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\bin\Debug\netcoreapp3.1\AB_sub3_10950.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\obj\Debug\netcoreapp3.1\AB_sub3_10950.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\obj\Debug\netcoreapp3.1\AB_sub3_10950.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\obj\Debug\netcoreapp3.1\AB_sub3_10950.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\obj\Debug\netcoreapp3.1\AB_sub3_10950.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\obj\Debug\netcoreapp3.1\AB_sub3_10950.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\obj\Debug\netcoreapp3.1\AB_sub3_10950.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub3_10950\obj\Debug\netcoreapp3.1\AB_sub3_10950.genruntimeconfig.cache

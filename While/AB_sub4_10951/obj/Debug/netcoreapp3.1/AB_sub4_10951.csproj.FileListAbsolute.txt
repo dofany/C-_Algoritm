@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\bin\Debug\netcoreapp3.1\AB_sub4_10951.exe
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\bin\Debug\netcoreapp3.1\AB_sub4_10951.deps.json
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\bin\Debug\netcoreapp3.1\AB_sub4_10951.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\bin\Debug\netcoreapp3.1\AB_sub4_10951.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\bin\Debug\netcoreapp3.1\AB_sub4_10951.dll
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\bin\Debug\netcoreapp3.1\AB_sub4_10951.pdb
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\obj\Debug\netcoreapp3.1\AB_sub4_10951.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\obj\Debug\netcoreapp3.1\AB_sub4_10951.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\obj\Debug\netcoreapp3.1\AB_sub4_10951.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\obj\Debug\netcoreapp3.1\AB_sub4_10951.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\obj\Debug\netcoreapp3.1\AB_sub4_10951.dll
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\obj\Debug\netcoreapp3.1\AB_sub4_10951.pdb
+C:\Users\도파니\source\repos\baeckjoon\While\AB_sub4_10951\obj\Debug\netcoreapp3.1\AB_sub4_10951.genruntimeconfig.cache

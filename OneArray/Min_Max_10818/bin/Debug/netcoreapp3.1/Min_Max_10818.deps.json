@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Min_Max_10818/1.0.0": {
+        "runtime": {
+          "Min_Max_10818.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Min_Max_10818/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

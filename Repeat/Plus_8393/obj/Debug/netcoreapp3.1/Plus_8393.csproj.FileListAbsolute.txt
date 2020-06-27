@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\obj\Debug\netcoreapp3.1\Plus_8393.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\obj\Debug\netcoreapp3.1\Plus_8393.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\obj\Debug\netcoreapp3.1\Plus_8393.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\obj\Debug\netcoreapp3.1\Plus_8393.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\bin\Debug\netcoreapp3.1\Plus_8393.exe
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\bin\Debug\netcoreapp3.1\Plus_8393.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\bin\Debug\netcoreapp3.1\Plus_8393.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\bin\Debug\netcoreapp3.1\Plus_8393.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\bin\Debug\netcoreapp3.1\Plus_8393.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\bin\Debug\netcoreapp3.1\Plus_8393.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\obj\Debug\netcoreapp3.1\Plus_8393.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\obj\Debug\netcoreapp3.1\Plus_8393.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\Plus_8393\obj\Debug\netcoreapp3.1\Plus_8393.genruntimeconfig.cache

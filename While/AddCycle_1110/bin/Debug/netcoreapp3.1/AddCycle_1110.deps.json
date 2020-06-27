@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AddCycle_1110/1.0.0": {
+        "runtime": {
+          "AddCycle_1110.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddCycle_1110/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

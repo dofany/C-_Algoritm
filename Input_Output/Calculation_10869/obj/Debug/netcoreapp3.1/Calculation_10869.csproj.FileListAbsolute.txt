@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\bin\Debug\netcoreapp3.1\Calculation_10869.exe
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\bin\Debug\netcoreapp3.1\Calculation_10869.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\bin\Debug\netcoreapp3.1\Calculation_10869.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\bin\Debug\netcoreapp3.1\Calculation_10869.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\bin\Debug\netcoreapp3.1\Calculation_10869.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\bin\Debug\netcoreapp3.1\Calculation_10869.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\obj\Debug\netcoreapp3.1\Calculation_10869.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\obj\Debug\netcoreapp3.1\Calculation_10869.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\obj\Debug\netcoreapp3.1\Calculation_10869.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\obj\Debug\netcoreapp3.1\Calculation_10869.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\obj\Debug\netcoreapp3.1\Calculation_10869.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\obj\Debug\netcoreapp3.1\Calculation_10869.genruntimeconfig.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Calculation_10869\obj\Debug\netcoreapp3.1\Calculation_10869.csprojAssemblyReference.cache

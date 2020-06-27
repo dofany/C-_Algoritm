@@ -1,0 +1,12 @@
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\bin\Debug\netcoreapp3.1\N_2741.exe
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\bin\Debug\netcoreapp3.1\N_2741.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\bin\Debug\netcoreapp3.1\N_2741.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\bin\Debug\netcoreapp3.1\N_2741.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\bin\Debug\netcoreapp3.1\N_2741.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\bin\Debug\netcoreapp3.1\N_2741.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\obj\Debug\netcoreapp3.1\N_2741.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\obj\Debug\netcoreapp3.1\N_2741.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\obj\Debug\netcoreapp3.1\N_2741.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\obj\Debug\netcoreapp3.1\N_2741.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\obj\Debug\netcoreapp3.1\N_2741.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\N_2741\obj\Debug\netcoreapp3.1\N_2741.genruntimeconfig.cache

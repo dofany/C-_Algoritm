@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\bin\Debug\netcoreapp3.1\XtoSmall_10871.exe
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\bin\Debug\netcoreapp3.1\XtoSmall_10871.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\bin\Debug\netcoreapp3.1\XtoSmall_10871.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\bin\Debug\netcoreapp3.1\XtoSmall_10871.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\bin\Debug\netcoreapp3.1\XtoSmall_10871.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\bin\Debug\netcoreapp3.1\XtoSmall_10871.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\obj\Debug\netcoreapp3.1\XtoSmall_10871.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\obj\Debug\netcoreapp3.1\XtoSmall_10871.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\obj\Debug\netcoreapp3.1\XtoSmall_10871.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\obj\Debug\netcoreapp3.1\XtoSmall_10871.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\obj\Debug\netcoreapp3.1\XtoSmall_10871.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\obj\Debug\netcoreapp3.1\XtoSmall_10871.genruntimeconfig.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\XtoSmall_10871\obj\Debug\netcoreapp3.1\XtoSmall_10871.csprojAssemblyReference.cache

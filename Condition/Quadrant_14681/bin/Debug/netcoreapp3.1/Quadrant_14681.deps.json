@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quadrant_14681/1.0.0": {
+        "runtime": {
+          "Quadrant_14681.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quadrant_14681/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

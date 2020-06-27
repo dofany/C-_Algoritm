@@ -1,0 +1,12 @@
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\bin\Debug\netcoreapp3.1\LeepYear_2753.exe
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\bin\Debug\netcoreapp3.1\LeepYear_2753.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\bin\Debug\netcoreapp3.1\LeepYear_2753.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\bin\Debug\netcoreapp3.1\LeepYear_2753.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\bin\Debug\netcoreapp3.1\LeepYear_2753.dll
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\bin\Debug\netcoreapp3.1\LeepYear_2753.pdb
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\obj\Debug\netcoreapp3.1\LeepYear_2753.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\obj\Debug\netcoreapp3.1\LeepYear_2753.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\obj\Debug\netcoreapp3.1\LeepYear_2753.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\obj\Debug\netcoreapp3.1\LeepYear_2753.dll
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\obj\Debug\netcoreapp3.1\LeepYear_2753.pdb
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\LeepYear_2753\obj\Debug\netcoreapp3.1\LeepYear_2753.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\bin\Debug\netcoreapp3.1\WeLoveKrill_10718.exe
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\bin\Debug\netcoreapp3.1\WeLoveKrill_10718.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\bin\Debug\netcoreapp3.1\WeLoveKrill_10718.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\bin\Debug\netcoreapp3.1\WeLoveKrill_10718.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\bin\Debug\netcoreapp3.1\WeLoveKrill_10718.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\bin\Debug\netcoreapp3.1\WeLoveKrill_10718.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\obj\Debug\netcoreapp3.1\WeLoveKrill_10718.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\obj\Debug\netcoreapp3.1\WeLoveKrill_10718.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\obj\Debug\netcoreapp3.1\WeLoveKrill_10718.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\obj\Debug\netcoreapp3.1\WeLoveKrill_10718.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\obj\Debug\netcoreapp3.1\WeLoveKrill_10718.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\obj\Debug\netcoreapp3.1\WeLoveKrill_10718.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\WeLoveKrill_10718\obj\Debug\netcoreapp3.1\WeLoveKrill_10718.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\bin\Debug\netcoreapp3.1\AB_sub7_11021.exe
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\bin\Debug\netcoreapp3.1\AB_sub7_11021.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\bin\Debug\netcoreapp3.1\AB_sub7_11021.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\bin\Debug\netcoreapp3.1\AB_sub7_11021.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\bin\Debug\netcoreapp3.1\AB_sub7_11021.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\bin\Debug\netcoreapp3.1\AB_sub7_11021.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\obj\Debug\netcoreapp3.1\AB_sub7_11021.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\obj\Debug\netcoreapp3.1\AB_sub7_11021.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\obj\Debug\netcoreapp3.1\AB_sub7_11021.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\obj\Debug\netcoreapp3.1\AB_sub7_11021.dll
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\obj\Debug\netcoreapp3.1\AB_sub7_11021.pdb
+C:\Users\도파니\source\repos\baeckjoon\Repeat\AB_sub7_11021\obj\Debug\netcoreapp3.1\AB_sub7_11021.genruntimeconfig.cache

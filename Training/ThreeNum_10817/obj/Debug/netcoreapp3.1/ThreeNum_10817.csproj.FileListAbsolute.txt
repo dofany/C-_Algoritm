@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\bin\Debug\netcoreapp3.1\ThreeNum_10817.exe
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\bin\Debug\netcoreapp3.1\ThreeNum_10817.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\bin\Debug\netcoreapp3.1\ThreeNum_10817.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\bin\Debug\netcoreapp3.1\ThreeNum_10817.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\bin\Debug\netcoreapp3.1\ThreeNum_10817.dll
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\bin\Debug\netcoreapp3.1\ThreeNum_10817.pdb
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\obj\Debug\netcoreapp3.1\ThreeNum_10817.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\obj\Debug\netcoreapp3.1\ThreeNum_10817.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\obj\Debug\netcoreapp3.1\ThreeNum_10817.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\obj\Debug\netcoreapp3.1\ThreeNum_10817.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\obj\Debug\netcoreapp3.1\ThreeNum_10817.dll
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\obj\Debug\netcoreapp3.1\ThreeNum_10817.pdb
+C:\Users\도파니\source\repos\baeckjoon\Training\ThreeNum_10817\obj\Debug\netcoreapp3.1\ThreeNum_10817.genruntimeconfig.cache

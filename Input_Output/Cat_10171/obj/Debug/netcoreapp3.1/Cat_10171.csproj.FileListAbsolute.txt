@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\bin\Debug\netcoreapp3.1\Cat_10171.exe
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\bin\Debug\netcoreapp3.1\Cat_10171.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\bin\Debug\netcoreapp3.1\Cat_10171.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\bin\Debug\netcoreapp3.1\Cat_10171.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\bin\Debug\netcoreapp3.1\Cat_10171.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\bin\Debug\netcoreapp3.1\Cat_10171.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\obj\Debug\netcoreapp3.1\Cat_10171.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\obj\Debug\netcoreapp3.1\Cat_10171.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\obj\Debug\netcoreapp3.1\Cat_10171.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\obj\Debug\netcoreapp3.1\Cat_10171.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\obj\Debug\netcoreapp3.1\Cat_10171.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\obj\Debug\netcoreapp3.1\Cat_10171.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Cat_10171\obj\Debug\netcoreapp3.1\Cat_10171.genruntimeconfig.cache

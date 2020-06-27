@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Multiplication_2588/1.0.0": {
+        "runtime": {
+          "Multiplication_2588.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiplication_2588/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

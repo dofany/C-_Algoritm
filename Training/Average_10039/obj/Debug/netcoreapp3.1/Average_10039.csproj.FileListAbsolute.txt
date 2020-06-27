@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\bin\Debug\netcoreapp3.1\Average_10039.exe
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\bin\Debug\netcoreapp3.1\Average_10039.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\bin\Debug\netcoreapp3.1\Average_10039.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\bin\Debug\netcoreapp3.1\Average_10039.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\bin\Debug\netcoreapp3.1\Average_10039.dll
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\bin\Debug\netcoreapp3.1\Average_10039.pdb
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\obj\Debug\netcoreapp3.1\Average_10039.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\obj\Debug\netcoreapp3.1\Average_10039.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\obj\Debug\netcoreapp3.1\Average_10039.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\obj\Debug\netcoreapp3.1\Average_10039.dll
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\obj\Debug\netcoreapp3.1\Average_10039.pdb
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\obj\Debug\netcoreapp3.1\Average_10039.genruntimeconfig.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\Average_10039\obj\Debug\netcoreapp3.1\Average_10039.csprojAssemblyReference.cache

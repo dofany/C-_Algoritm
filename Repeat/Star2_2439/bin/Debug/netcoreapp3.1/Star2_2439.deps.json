@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Star2_2439/1.0.0": {
+        "runtime": {
+          "Star2_2439.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Star2_2439/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\bin\Debug\netcoreapp3.1\Multiplication_2588.exe
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\bin\Debug\netcoreapp3.1\Multiplication_2588.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\bin\Debug\netcoreapp3.1\Multiplication_2588.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\bin\Debug\netcoreapp3.1\Multiplication_2588.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\bin\Debug\netcoreapp3.1\Multiplication_2588.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\bin\Debug\netcoreapp3.1\Multiplication_2588.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\obj\Debug\netcoreapp3.1\Multiplication_2588.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\obj\Debug\netcoreapp3.1\Multiplication_2588.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\obj\Debug\netcoreapp3.1\Multiplication_2588.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\obj\Debug\netcoreapp3.1\Multiplication_2588.dll
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\obj\Debug\netcoreapp3.1\Multiplication_2588.pdb
+C:\Users\도파니\source\repos\baeckjoon\Input_Output\Multiplication\obj\Debug\netcoreapp3.1\Multiplication_2588.genruntimeconfig.cache

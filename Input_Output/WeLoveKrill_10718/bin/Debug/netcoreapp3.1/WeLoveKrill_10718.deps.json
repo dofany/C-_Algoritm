@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeLoveKrill_10718/1.0.0": {
+        "runtime": {
+          "WeLoveKrill_10718.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeLoveKrill_10718/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

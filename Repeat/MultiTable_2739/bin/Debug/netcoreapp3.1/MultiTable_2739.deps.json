@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MultiTable_2739/1.0.0": {
+        "runtime": {
+          "MultiTable_2739.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiTable_2739/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

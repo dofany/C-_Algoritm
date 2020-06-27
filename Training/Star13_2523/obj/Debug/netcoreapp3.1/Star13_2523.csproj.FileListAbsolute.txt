@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\bin\Debug\netcoreapp3.1\Star13_2523.exe
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\bin\Debug\netcoreapp3.1\Star13_2523.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\bin\Debug\netcoreapp3.1\Star13_2523.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\bin\Debug\netcoreapp3.1\Star13_2523.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\bin\Debug\netcoreapp3.1\Star13_2523.dll
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\bin\Debug\netcoreapp3.1\Star13_2523.pdb
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\obj\Debug\netcoreapp3.1\Star13_2523.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\obj\Debug\netcoreapp3.1\Star13_2523.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\obj\Debug\netcoreapp3.1\Star13_2523.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\obj\Debug\netcoreapp3.1\Star13_2523.dll
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\obj\Debug\netcoreapp3.1\Star13_2523.pdb
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\obj\Debug\netcoreapp3.1\Star13_2523.genruntimeconfig.cache
+C:\Users\도파니\source\repos\baeckjoon\Training\Star13_2523\obj\Debug\netcoreapp3.1\Star13_2523.csprojAssemblyReference.cache

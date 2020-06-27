@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\bin\Debug\netcoreapp3.1\Grade_9498.exe
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\bin\Debug\netcoreapp3.1\Grade_9498.deps.json
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\bin\Debug\netcoreapp3.1\Grade_9498.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\bin\Debug\netcoreapp3.1\Grade_9498.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\bin\Debug\netcoreapp3.1\Grade_9498.dll
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\bin\Debug\netcoreapp3.1\Grade_9498.pdb
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\obj\Debug\netcoreapp3.1\Grade_9498.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\obj\Debug\netcoreapp3.1\Grade_9498.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\obj\Debug\netcoreapp3.1\Grade_9498.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\obj\Debug\netcoreapp3.1\Grade_9498.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\obj\Debug\netcoreapp3.1\Grade_9498.dll
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\obj\Debug\netcoreapp3.1\Grade_9498.pdb
+C:\Users\도파니\source\repos\baeckjoon\Condition\Condition\Grade_9498\obj\Debug\netcoreapp3.1\Grade_9498.genruntimeconfig.cache

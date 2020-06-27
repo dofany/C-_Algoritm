@@ -1,0 +1,13 @@
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\bin\Debug\netcoreapp3.1\Min_Max_10818.exe
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\bin\Debug\netcoreapp3.1\Min_Max_10818.deps.json
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\bin\Debug\netcoreapp3.1\Min_Max_10818.runtimeconfig.json
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\bin\Debug\netcoreapp3.1\Min_Max_10818.runtimeconfig.dev.json
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\bin\Debug\netcoreapp3.1\Min_Max_10818.dll
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\bin\Debug\netcoreapp3.1\Min_Max_10818.pdb
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\obj\Debug\netcoreapp3.1\Min_Max_10818.csprojAssemblyReference.cache
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\obj\Debug\netcoreapp3.1\Min_Max_10818.csproj.CoreCompileInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\obj\Debug\netcoreapp3.1\Min_Max_10818.AssemblyInfoInputs.cache
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\obj\Debug\netcoreapp3.1\Min_Max_10818.AssemblyInfo.cs
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\obj\Debug\netcoreapp3.1\Min_Max_10818.dll
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\obj\Debug\netcoreapp3.1\Min_Max_10818.pdb
+C:\Users\도파니\source\repos\baeckjoon\OneArray\Min_Max_10818\obj\Debug\netcoreapp3.1\Min_Max_10818.genruntimeconfig.cache
